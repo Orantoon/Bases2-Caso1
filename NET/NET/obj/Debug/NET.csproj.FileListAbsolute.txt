@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\bin\Debug\NET.exe.config
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\bin\Debug\NET.exe
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\bin\Debug\NET.pdb
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\obj\Debug\NET.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\obj\Debug\NET.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\obj\Debug\NET.exe
+C:\Users\david\Desktop\Tareas David\TEC\Semestre 5\Base de Datos II\Casos\Caso 1\Bases2-Caso1\NET\NET\obj\Debug\NET.pdb

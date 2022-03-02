@@ -20,8 +20,8 @@ public class CConnection {
     
     Connection connect = null;
     
-    String user = "sa";
-    String password = "CyberTiger#19";
+    String user = "usersql";
+    String password = "root";
     String db = "bases2_caso1";
     String ip = "localhost\\DEIBID";
     String port = "1433";

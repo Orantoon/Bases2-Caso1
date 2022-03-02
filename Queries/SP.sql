@@ -7,7 +7,7 @@ GROUP BY partidoId, entregableId, Entregable.planId, cantonId, kpiValue, kpiType
 
 EXEC Query1 @canton = 7
 
-drop procedure Query2
+
 CREATE PROCEDURE Query2
 AS
 DECLARE @cantPartidos INT
